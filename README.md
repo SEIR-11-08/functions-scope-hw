@@ -22,16 +22,16 @@ The commit message should read: <br>
 Write a function `checkPalindrome` that accepts a single argument, a string. Later in this assignment we're gonna beef up our palindrome function some. The function should return true if the string is a palindrome, false if not. A _palindrome_ is a word that is the same spelled backwards and forwards, for example: Racecar. Make sure your function will give the correct answer for words with **capital letters**.
 
 ```javascript
-const wordIsPaindrome = checkPalindrome("Radar");
+const wordIsPalindrome = checkPalindrome("Radar");
 
-console.log(wordIsPaindrome);
+console.log(wordIsPalindrome);
 => true
 ```
 
 ```javascript
-const wordIsPaindrome = checkPalindrome("Cat");
+const wordIsPalindrome = checkPalindrome("Cat");
 
-console.log(wordIsPaindrome);
+console.log(wordIsPalindrome);
 => false
 ```
 
